@@ -1,0 +1,17 @@
+{
+  "name": "Nikhil Kumar",
+  "age": 29,
+  "profession": "Automation Test Engineer",
+  "skills": [
+    "Java",
+    "Selenium",
+    "TestNg",
+    "Cucumber BDD",
+    "Rest Assured",
+    "Karate",
+    "Playwright"
+  ],
+  "experience": {
+    "automation exp": 8
+  }
+}

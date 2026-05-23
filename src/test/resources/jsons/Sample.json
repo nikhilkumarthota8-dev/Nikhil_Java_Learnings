@@ -1,0 +1,14 @@
+{
+  "Name": "Nikhil Kumar",
+  "Age": 29,
+  "Address": {
+    "City": "Nellore",
+    "Pin code": 524002,
+    "State": "Andhra",
+    "Country": "Country"
+  },
+  "PhoneNumbers": [
+    8328160316,
+    9052450213
+  ]
+}

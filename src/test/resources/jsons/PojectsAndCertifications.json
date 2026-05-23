@@ -1,0 +1,43 @@
+{
+  "name": "Nikhil Kumar",
+  "age": 29,
+  "profession": "Automation Test Engineer",
+  "skills": [
+    "Java",
+    "Selenium",
+    "TestNg",
+    "Cucumber BDD",
+    "Rest Assured",
+    "Karate",
+    "Playwright"
+  ],
+  "experience": {
+    "automation exp": 8
+  },
+  "projects": [
+    {
+      "projectID": "1234",
+      "project name": "Java Project"
+    },
+    {
+      "projectID": "12345",
+      "project name": "Selenium Projects"
+    },
+    {
+      "projectID": "123456",
+      "project name": "Rest Assured Projects"
+    },
+    {
+      "projectID": "1234567",
+      "project name": "Karate Projects"
+    }
+  ],
+  "certifications": [
+    {
+      "Certificate1": "Java cert"
+    },
+    {
+      "Certificate2": "Selenium cert"
+    }
+  ]
+}
