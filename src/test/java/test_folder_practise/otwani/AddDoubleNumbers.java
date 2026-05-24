@@ -14,7 +14,10 @@ public class AddDoubleNumbers {
         double fourthElement = numbers[3];
         double fifthElement = numbers[4];
 
-        double result = firstElement + secondElement + thirdElement + fourthElement + fifthElement;
+        double result = 0;
+        for (double number : numbers) {
+            result = result + number;
+        }
         System.out.println("The sum of array elements: " + result);
         if (result >= 150) {
             System.out.println("The sum is greater than or equal to 150.0");
